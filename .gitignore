@@ -67,7 +67,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
-
+minikube-linux-amd64
 # PyBuilder
 target/
 
